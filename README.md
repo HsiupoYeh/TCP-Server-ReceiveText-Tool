@@ -1,16 +1,16 @@
 # TCP-Server-ReceiveText-Tool
 TCP伺服器端的接收測試小工具
 
-開發環境:  
+## 開發環境:  
 Windows 7 SP1 64bit 中文版  
 Embarcadero® C++Builder 10.2 Version 25.0.28979.1978 
 
-運行需求:
+## 運行需求:  
 Windosw作業系統。  
 可運行32位元應用程式。  
 允許程式通過防火牆。  
 
-注意事項:  
+## 注意事項:  
 本專案有使用Socket元件。  
   
 「C++Builder」預設安裝時並沒有安裝Socket元件，但所需的安裝檔案已打包放在對應位置下(依照版本不同，路徑不同)。  
