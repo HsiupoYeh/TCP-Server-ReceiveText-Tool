@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2021/05/10 13:29:51.000.492,=C:\Users\USER\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2021/05/10 13:29:54.000.208,=C:\Users\USER\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>2021/07/21 13:59:23.000.293,=C:\Users\USER\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2021/07/21 13:59:25.000.842,=C:\Users\USER\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>2021/07/21 14:35:43.000.172,C:\Users\USER\Documents\Embarcadero\Studio\Projects\Unit1.h=C:\Users\USER\Desktop\TCP Tool\TCP_Tool_v1\Unit1.h</Transaction>
+    <Transaction>2021/07/21 14:35:43.000.172,C:\Users\USER\Documents\Embarcadero\Studio\Projects\Unit1.dfm=C:\Users\USER\Desktop\TCP Tool\TCP_Tool_v1\Unit1.dfm</Transaction>
+    <Transaction>2021/07/21 14:35:43.000.172,C:\Users\USER\Documents\Embarcadero\Studio\Projects\Unit1.cpp=C:\Users\USER\Desktop\TCP Tool\TCP_Tool_v1\Unit1.cpp</Transaction>
+    <Transaction>2021/07/21 14:35:44.000.314,C:\Users\USER\Documents\Embarcadero\Studio\Projects\Project1PCH1.h=C:\Users\USER\Desktop\TCP Tool\TCP_Tool_v1\Project1PCH1.h</Transaction>
+    <Transaction>2021/07/21 14:35:45.000.143,C:\Users\USER\Documents\Embarcadero\Studio\Projects\Project1.cbproj=C:\Users\USER\Desktop\TCP Tool\TCP_Tool_v1\Project1.cbproj</Transaction>
+    <Transaction>2021/07/28 16:57:27.000.902,C:\Users\USER\Desktop\TCP Tool\TCP_Tool_v1\Project1PCH1.h=C:\Users\USER\Desktop\TCP Tool\TCP_Tool_v1\TCP Server Receive Text ToolPCH1.h</Transaction>
+    <Transaction>2021/07/28 16:57:27.000.919,C:\Users\USER\Desktop\TCP Tool\TCP_Tool_v1\Project1.cbproj=C:\Users\USER\Desktop\TCP Tool\TCP_Tool_v1\TCP Server Receive Text Tool.cbproj</Transaction>
+    <Transaction>2021/07/28 17:04:33.000.593,C:\Users\USER\Desktop\TCP Tool\TCP_Tool_v1\TCP Server Receive Text ToolPCH1.h=C:\Users\USER\Desktop\TCP Tool\TCP_Tool_v1\TCP Server ReceiveText ToolPCH1.h</Transaction>
+    <Transaction>2021/07/28 17:04:33.000.609,C:\Users\USER\Desktop\TCP Tool\TCP_Tool_v1\TCP Server Receive Text Tool.cbproj=C:\Users\USER\Desktop\TCP Tool\TCP_Tool_v1\TCP Server ReceiveText Tool.cbproj</Transaction>
+  </Transactions>
+</BorlandProject>
