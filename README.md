@@ -5,6 +5,11 @@ TCP伺服器端的接收測試小工具
 Windows 7 SP1 64bit 中文版  
 Embarcadero® C++Builder 10.2 Version 25.0.28979.1978 
 
+運行需求:
+Windosw作業系統。  
+可運行32位元應用程式。  
+允許程式通過防火牆。  
+
 注意事項:  
 本專案有使用Socket元件。  
   
