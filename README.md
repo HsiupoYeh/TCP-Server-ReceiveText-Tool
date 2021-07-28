@@ -1,5 +1,8 @@
 # TCP-Server-ReceiveText-Tool
-TCP伺服器端的接收測試小工具
+TCP伺服器端的接收測試小工具  
+  
+![image](https://github.com/HsiupoYeh/TCP-Server-ReceiveText-Tool/blob/main/ScreenShot/ScreenShot_001.png)  
+
 
 ## 開發環境:  
 Windows 7 SP1 64bit 繁體中文版  
